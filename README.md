@@ -1,12 +1,10 @@
 # Hi, I'm Joshua 👋
 
-UC Berkeley Data Science & Economics Student
-
-I'm a student at UC Berkeley learning Data Science & ML Concepts. This profile tracks the journey, messy notebooks and all.
+I'm a student at UC Berkeley majoring in Data Science and Economics. This profile tracks my journey learning Data Science & ML concepts in messy notebooks, projects, practice and all.
 
 ## 🎯 Current Focus (January 2026): Neural Networks: Zero to Hero w/Andrej Karpathy
 
 ## 🤝 Let's Connect
 I'm always interested in connecting with others learning ML, experienced practitioners willing to share insights, or anyone building at the intersection of AI and product.
 
-[LinkedIn] | [Email] | [Personal site if you have one]
+[[LinkedIn]([url](https://www.linkedin.com/in/joshuathomas06/))] | [[Email](joshuathomas24@berkeley.edu)]
