@@ -1,6 +1,6 @@
-#Hi, I'm Joshua 👋
+# Hi, I'm Joshua 👋
 
-**UC Berkeley Data Science & Economics Student
+UC Berkeley Data Science & Economics Student
 
 I'm a student at UC Berkeley learning Data Science & ML Concepts. This profile tracks the journey, messy notebooks and all.
 
