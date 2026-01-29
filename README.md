@@ -7,4 +7,4 @@ I'm a student at UC Berkeley majoring in Data Science and Economics. This profil
 ## 🤝 Let's Connect
 I'm always interested in connecting with others learning ML, experienced practitioners willing to share insights, or anyone building at the intersection of AI and product.
 
-[[LinkedIn]([url](https://www.linkedin.com/in/joshuathomas06/))]
+[LinkedIn](https://www.linkedin.com/in/joshuathomas06/)
